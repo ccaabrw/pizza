@@ -19,3 +19,17 @@ Perfect with a glass of wine:
 ![20230209_130229](pics/20230209_130229.jpg)
 
 # **Cheers GitHub!**
+
+----
+
+Screenshots from the session:
+![](pics/Screenshot 2023-02-10 004630.png)
+![](pics/Screenshot 2023-02-10 004728.png)
+![](pics/Screenshot 2023-02-10 004756.png)
+![](pics/Screenshot 2023-02-10 004812.png)
+![](pics/Screenshot 2023-02-10 004829.png)
+![](pics/Screenshot 2023-02-10 004900.png)
+![](pics/Screenshot 2023-02-10 004916.png)
+![](pics/Screenshot 2023-02-10 004929.png)
+![](pics/Screenshot 2023-02-10 004942.png)
+![](pics/Screenshot 2023-02-10 004954.png)
