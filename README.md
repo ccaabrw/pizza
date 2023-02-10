@@ -23,13 +23,13 @@ Perfect with a glass of wine:
 ----
 
 Screenshots from the session:
-![](pics/Screenshot 2023-02-10 004630.png)
-![](pics/Screenshot 2023-02-10 004728.png)
-![](pics/Screenshot 2023-02-10 004756.png)
-![](pics/Screenshot 2023-02-10 004812.png)
-![](pics/Screenshot 2023-02-10 004829.png)
-![](pics/Screenshot 2023-02-10 004900.png)
-![](pics/Screenshot 2023-02-10 004916.png)
-![](pics/Screenshot 2023-02-10 004929.png)
-![](pics/Screenshot 2023-02-10 004942.png)
-![](pics/Screenshot 2023-02-10 004954.png)
+![a]('pics/Screenshot 2023-02-10 004630.png')
+![b](pics/Screenshot 2023-02-10 004728.png)
+![c](pics/Screenshot 2023-02-10 004756.png)
+![d](pics/Screenshot 2023-02-10 004812.png)
+![e](pics/Screenshot 2023-02-10 004829.png)
+![f](pics/Screenshot 2023-02-10 004900.png)
+![g](pics/Screenshot 2023-02-10 004916.png)
+![h](pics/Screenshot 2023-02-10 004929.png)
+![i](pics/Screenshot 2023-02-10 004942.png)
+![j](pics/Screenshot 2023-02-10 004954.png)
