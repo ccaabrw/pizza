@@ -1,8 +1,6 @@
 # Happy National Pizza Day!
 ## 9 Feb 2023
 
-https://www.bbc.co.uk/newsround/55997210
-
 ----
 
 For the event - I've received a bottle of wine:
